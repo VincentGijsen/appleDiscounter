@@ -1,0 +1,4 @@
+appleDiscounter
+===============
+
+Apple discount scraper
