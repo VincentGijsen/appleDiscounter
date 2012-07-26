@@ -1,3 +1,10 @@
+#Vincent Gijsen (http://www.vincentgijsen.nl)
+#
+# 2012-07-25
+# Please note, apple can ask you to verify your actually attending such institute
+
+
+
 require 'open-uri'
 require 'Nokogiri'
 
